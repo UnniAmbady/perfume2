@@ -1,2 +1,6 @@
 streamlit
-openai
+fastapi==0.111.0
+uvicorn[standard]==0.30.3
+python-dotenv==1.0.1
+requests==2.32.3
+openai==1.43.0
